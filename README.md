@@ -30,7 +30,7 @@ Se procedió a la edición de las preferencias de red de la máquina virtual par
   ![Configuración Adaptador 1 NAT](screenshots/02_vm_network_nat.png)
 
 * **Paso B - Activación del Adaptador 2 (Host-Only):** Se habilitó el segundo adaptador conectándolo a la interfaz virtual `VirtualBox Host-Only Ethernet Adapter`.
-  ![Configuración Adaptador 2 Host-Only](screenshots/03_vm_network_hostonly.png.png)
+  ![Configuración Adaptador 2 Host-Only](screenshots/03_vm_network_hostonly.png)
 
 * **Vista Final del Hardware Virtualizado:** Resumen del aprovisionamiento del sistema, donde se confirma la correcta convivencia de ambas tarjetas de red.
   ![Resumen de Configuración Final](screenshots/04_vm_network_final_config.png)
